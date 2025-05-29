@@ -89,10 +89,3 @@ Install required dependencies using:
 ⁠ bash
 pip install tensorflow numpy matplotlib
 
-
----
-
-## Notes
-
-•⁠  ⁠Ensure that your Python environment is correctly set up.
-•⁠  ⁠Keep logs organized and clearly labeled for better analysis and reproducibility.
