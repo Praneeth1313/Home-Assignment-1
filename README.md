@@ -1,5 +1,9 @@
 # Home-Assignment-1
+
+Name : Thota Praneeth babu
+
 700# : 700777380
+
 CRN : 30671
 
 
